@@ -415,15 +415,15 @@ a.article-title:hover,
 }
 .article-category {
   float: left;
-  margin-left: 8px;
-  margin-right: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
   color: #939393;
 }
 .article-category:before {
   content: "\2022";
 }
 .article-category span {
-  margin-left: 8px;
+  margin-left: 5px;
 }
 .article-category-link {
   margin-left: 5px;
@@ -466,7 +466,6 @@ a.article-title:hover,
 .article-entry table {
   line-height: 1.4em;
   margin: 1.4em 0;
-  text-align: justify;
 }
 .article-entry h1,
 .article-entry h2,
@@ -585,8 +584,11 @@ a.article-title:hover,
 .article-footer a:hover {
   color: #111;
 }
+.article-tag-list {
+  float: left;
+}
 .article-tag-list-item {
-  margin-right: 10px;
+  margin-right: 5px;
   float: left;
   color: #939393;
 }
@@ -712,6 +714,27 @@ a.article-title:hover,
   height: 100px;
   border-radius: 50px;
 }
+.friendshead {
+  font-size: 1.4em;
+}
+.friendsentry div {
+  margin: 30px 0;
+}
+.friendsentry div ul {
+  margin: 15px;
+}
+.friendsentry div ul li {
+  margin: 5px;
+}
+.friendsentry span {
+  font-size: 1em;
+}
+.friendsentry a {
+  border-bottom: 0px;
+}
+.friendsentry a:hover {
+  border-bottom: 1px dotted #000;
+}
 #comments {
   margin: 20px 0;
 }
@@ -804,7 +827,7 @@ a.article-title:hover,
   color: #ddd;
 }
 #footer {
-  padding-bottom: 100px;
+  padding-bottom: 30px;
   text-align: center;
 }
 #footer a {
