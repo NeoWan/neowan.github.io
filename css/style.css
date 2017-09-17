@@ -399,6 +399,19 @@ a.article-title:hover,
 .article-inner {
   overflow: hidden;
 }
+.article-meta {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
+  -webkit-box-pack: start;
+  -moz-box-pack: start;
+  -ms-flex-pack: start;
+  -webkit-justify-content: flex-start;
+  justify-content: flex-start;
+}
 .article-meta:before,
 .article-meta:after {
   content: "";
@@ -411,10 +424,9 @@ a.article-title:hover,
   color: #939393;
 }
 .article-date {
-  float: left;
+  display: block;
 }
 .article-category {
-  float: left;
   margin-left: 5px;
   margin-right: 5px;
   color: #939393;
@@ -426,7 +438,7 @@ a.article-title:hover,
   margin-left: 5px;
 }
 .article-category-link {
-  margin-left: 5px;
+  margin-left: 2px;
 }
 .article-comment-link-wrap {
   float: left;
@@ -585,18 +597,18 @@ a.article-title:hover,
   color: #111;
 }
 .article-tag-list {
+  display: block;
   float: left;
 }
 .article-tag-list-item {
   margin-right: 5px;
-  float: left;
   color: #939393;
 }
 .article-tag-list-item:before {
   content: "#";
 }
 .article-tag-list-link {
-  margin-left: 5px;
+  margin-left: 2px;
 }
 #article-nav {
   position: relative;
@@ -853,8 +865,8 @@ a.article-title:hover,
   justify-content: space-between;
 }
 #footer-info .contact div {
-  height: 50px;
-  line-height: 50px;
+  height: 35px;
+  line-height: 35px;
 }
 #footer-info .copyright {
   height: 30px;
