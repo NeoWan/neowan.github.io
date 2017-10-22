@@ -295,7 +295,7 @@ a.article-title:hover,
 #main-nav-toggle,
 .search-form-submit {
   float: left;
-  color: #000;
+  color: #333;
   text-decoration: none;
   -webkit-transition: opacity 0.2s;
   -moz-transition: opacity 0.2s;
@@ -873,6 +873,7 @@ a.article-title:hover,
 #footer-info .copyright {
   height: 30px;
   line-height: 30px;
+  font-weight: 600;
 }
 .article-entry pre,
 .article-entry .highlight {
