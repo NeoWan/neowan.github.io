@@ -557,9 +557,10 @@ a.article-title:hover,
 }
 .article-entry .caption {
   color: #939393;
-  display: none;
+  display: block;
   font-size: 0.9em;
   margin-top: 0.5em;
+  margin-bottom: -1em;
   position: relative;
   text-align: center;
 }
