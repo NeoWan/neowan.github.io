@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>ElonWan Blog</title>
+  <title>Neo Blog</title>
   
   <subtitle>技术 创业 互联网 机器学习 生活 思考</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://elonwan.github.io/"/>
+  <link href="http://neo.github.io/"/>
   <updated>2017-10-23T11:40:06.000Z</updated>
-  <id>http://elonwan.github.io/</id>
+  <id>http://neo.github.io/</id>
   
   <author>
-    <name>ElonWan</name>
+    <name>Neo</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>哈佛大学幸福公开课笔记（下）</title>
-    <link href="http://elonwan.github.io/2017/10/19/%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E5%B9%B8%E7%A6%8F%E5%85%AC%E5%BC%80%E8%AF%BE%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%8B%EF%BC%89/"/>
-    <id>http://elonwan.github.io/2017/10/19/哈佛大学幸福公开课笔记（下）/</id>
+    <link href="http://neo.github.io/2017/10/19/%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E5%B9%B8%E7%A6%8F%E5%85%AC%E5%BC%80%E8%AF%BE%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%8B%EF%BC%89/"/>
+    <id>http://neo.github.io/2017/10/19/哈佛大学幸福公开课笔记（下）/</id>
     <published>2017-10-19T02:34:26.000Z</published>
     <updated>2017-10-23T11:40:06.000Z</updated>
     
@@ -32,17 +32,17 @@
     
     </summary>
     
-      <category term="感悟人生" scheme="http://elonwan.github.io/categories/%E6%84%9F%E6%82%9F%E4%BA%BA%E7%94%9F/"/>
+      <category term="感悟人生" scheme="http://neo.github.io/categories/%E6%84%9F%E6%82%9F%E4%BA%BA%E7%94%9F/"/>
     
     
-      <category term="公开课" scheme="http://elonwan.github.io/tags/%E5%85%AC%E5%BC%80%E8%AF%BE/"/>
+      <category term="公开课" scheme="http://neo.github.io/tags/%E5%85%AC%E5%BC%80%E8%AF%BE/"/>
     
   </entry>
   
   <entry>
     <title>哈佛大学幸福公开课笔记（上）</title>
-    <link href="http://elonwan.github.io/2017/10/16/%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E5%B9%B8%E7%A6%8F%E5%85%AC%E5%BC%80%E8%AF%BE%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%8A%EF%BC%89/"/>
-    <id>http://elonwan.github.io/2017/10/16/哈佛大学幸福公开课笔记（上）/</id>
+    <link href="http://neo.github.io/2017/10/16/%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E5%B9%B8%E7%A6%8F%E5%85%AC%E5%BC%80%E8%AF%BE%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%8A%EF%BC%89/"/>
+    <id>http://neo.github.io/2017/10/16/哈佛大学幸福公开课笔记（上）/</id>
     <published>2017-10-16T02:40:50.000Z</published>
     <updated>2017-10-26T14:47:30.000Z</updated>
     
@@ -55,17 +55,17 @@
     
     </summary>
     
-      <category term="感悟人生" scheme="http://elonwan.github.io/categories/%E6%84%9F%E6%82%9F%E4%BA%BA%E7%94%9F/"/>
+      <category term="感悟人生" scheme="http://neo.github.io/categories/%E6%84%9F%E6%82%9F%E4%BA%BA%E7%94%9F/"/>
     
     
-      <category term="公开课" scheme="http://elonwan.github.io/tags/%E5%85%AC%E5%BC%80%E8%AF%BE/"/>
+      <category term="公开课" scheme="http://neo.github.io/tags/%E5%85%AC%E5%BC%80%E8%AF%BE/"/>
     
   </entry>
   
   <entry>
     <title>遇见互联网</title>
-    <link href="http://elonwan.github.io/2017/09/17/%E9%81%87%E8%A7%81%E4%BA%92%E8%81%94%E7%BD%91/"/>
-    <id>http://elonwan.github.io/2017/09/17/遇见互联网/</id>
+    <link href="http://neo.github.io/2017/09/17/%E9%81%87%E8%A7%81%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    <id>http://neo.github.io/2017/09/17/遇见互联网/</id>
     <published>2017-09-17T02:14:31.000Z</published>
     <updated>2017-10-23T11:27:08.000Z</updated>
     
@@ -78,19 +78,19 @@
     
     </summary>
     
-      <category term="我的大学" scheme="http://elonwan.github.io/categories/%E6%88%91%E7%9A%84%E5%A4%A7%E5%AD%A6/"/>
+      <category term="我的大学" scheme="http://neo.github.io/categories/%E6%88%91%E7%9A%84%E5%A4%A7%E5%AD%A6/"/>
     
     
-      <category term="思考" scheme="http://elonwan.github.io/tags/%E6%80%9D%E8%80%83/"/>
+      <category term="思考" scheme="http://neo.github.io/tags/%E6%80%9D%E8%80%83/"/>
     
-      <category term="互联网" scheme="http://elonwan.github.io/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+      <category term="互联网" scheme="http://neo.github.io/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
   </entry>
   
   <entry>
     <title>为什么搭建这个博客？</title>
-    <link href="http://elonwan.github.io/2017/09/16/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%90%AD%E5%BB%BA%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2%EF%BC%9F/"/>
-    <id>http://elonwan.github.io/2017/09/16/为什么搭建这个博客？/</id>
+    <link href="http://neo.github.io/2017/09/16/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%90%AD%E5%BB%BA%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2%EF%BC%9F/"/>
+    <id>http://neo.github.io/2017/09/16/为什么搭建这个博客？/</id>
     <published>2017-09-16T08:32:17.000Z</published>
     <updated>2017-10-23T11:31:28.000Z</updated>
     
@@ -102,10 +102,10 @@
     
     </summary>
     
-      <category term="我的大学" scheme="http://elonwan.github.io/categories/%E6%88%91%E7%9A%84%E5%A4%A7%E5%AD%A6/"/>
+      <category term="我的大学" scheme="http://neo.github.io/categories/%E6%88%91%E7%9A%84%E5%A4%A7%E5%AD%A6/"/>
     
     
-      <category term="思考" scheme="http://elonwan.github.io/tags/%E6%80%9D%E8%80%83/"/>
+      <category term="思考" scheme="http://neo.github.io/tags/%E6%80%9D%E8%80%83/"/>
     
   </entry>
   
