@@ -424,6 +424,7 @@ a.article-title:hover,
 }
 .article-meta a {
   color: #939393;
+  line-height: 22px;
 }
 .article-date {
   display: block;
